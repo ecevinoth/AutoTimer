@@ -1,0 +1,748 @@
+{
+    "activities": [
+        {
+            "name": "powershell \u200e- Fluent Terminal",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 06:40:13",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-01-28 06:40:10"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 06:40:21",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2020-01-28 06:40:17"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 06:41:14",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 14,
+                    "start_time": "2020-01-28 06:41:00"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 06:41:18",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-01-28 06:41:15"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 07:08:25",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-01-28 07:08:24"
+                }
+            ]
+        },
+        {
+            "name": "D:\\ProgramFiles\\GoogleDrive\\PythonCode\\Project\\automation\\AutoTimer\\AutoTimer",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 06:40:17",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2020-01-28 06:40:13"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 07:08:57",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 19,
+                    "start_time": "2020-01-28 07:08:38"
+                }
+            ]
+        },
+        {
+            "name": "samanthaming.com",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 06:41:00",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 38,
+                    "start_time": "2020-01-28 06:40:21"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 06:44:28",
+                    "hours": 0,
+                    "minutes": 2,
+                    "seconds": 36,
+                    "start_time": "2020-01-28 06:41:52"
+                }
+            ]
+        },
+        {
+            "name": "ecevinoth@LAPTOP-Vinoth: /mnt/d/spark_medium-master/spark_csv \u200e- Fluent Terminal",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 06:41:15",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-01-28 06:41:14"
+                }
+            ]
+        },
+        {
+            "name": "instagram.com",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 06:41:19",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-01-28 06:41:18"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 06:41:52",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2020-01-28 06:41:45"
+                }
+            ]
+        },
+        {
+            "name": "quora.com",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 06:41:27",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2020-01-28 06:41:19"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 06:41:32",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-01-28 06:41:30"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 06:41:45",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2020-01-28 06:41:37"
+                }
+            ]
+        },
+        {
+            "name": "youtube.com",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 06:41:30",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-01-28 06:41:27"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 06:41:37",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2020-01-28 06:41:32"
+                }
+            ]
+        },
+        {
+            "name": "linkedin.com",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 06:44:49",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 20,
+                    "start_time": "2020-01-28 06:44:28"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 06:48:09",
+                    "hours": 0,
+                    "minutes": 3,
+                    "seconds": 12,
+                    "start_time": "2020-01-28 06:44:57"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 06:48:59",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 45,
+                    "start_time": "2020-01-28 06:48:14"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 06:49:38",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2020-01-28 06:49:29"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 06:50:33",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 51,
+                    "start_time": "2020-01-28 06:49:41"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 06:51:16",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 34,
+                    "start_time": "2020-01-28 06:50:42"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 06:52:01",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-01-28 06:52:00"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 06:52:28",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 24,
+                    "start_time": "2020-01-28 06:52:03"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 06:53:04",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 20,
+                    "start_time": "2020-01-28 06:52:44"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 06:53:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 19,
+                    "start_time": "2020-01-28 06:53:12"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 06:54:51",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 54,
+                    "start_time": "2020-01-28 06:53:56"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 07:01:18",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-01-28 07:01:16"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 07:01:47",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 22,
+                    "start_time": "2020-01-28 07:01:24"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 07:02:26",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 15,
+                    "start_time": "2020-01-28 07:02:11"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 07:02:48",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 18,
+                    "start_time": "2020-01-28 07:02:30"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 07:02:54",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2020-01-28 07:02:50"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 07:03:07",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2020-01-28 07:02:57"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 07:04:41",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 25,
+                    "start_time": "2020-01-28 07:03:16"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 07:04:53",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-01-28 07:04:52"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 07:08:24",
+                    "hours": 0,
+                    "minutes": 3,
+                    "seconds": 27,
+                    "start_time": "2020-01-28 07:04:57"
+                }
+            ]
+        },
+        {
+            "name": "Open",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 06:44:57",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2020-01-28 06:44:49"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 06:48:14",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2020-01-28 06:48:09"
+                }
+            ]
+        },
+        {
+            "name": "File Explorer",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 06:49:04",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2020-01-28 06:48:59"
+                }
+            ]
+        },
+        {
+            "name": "Desktop",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 06:49:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2020-01-28 06:49:04"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 06:49:29",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-01-28 06:49:27"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 07:08:29",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2020-01-28 07:08:25"
+                }
+            ]
+        },
+        {
+            "name": "file:///C:/Users/ecevi/Desktop/Vinoth_Chellamuthu_CV.pdf \u200e- Microsoft Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 06:49:12",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-01-28 06:49:11"
+                }
+            ]
+        },
+        {
+            "name": "Vinoth_Chellamuthu_CV.pdf \u200e- Microsoft Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 06:49:27",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 15,
+                    "start_time": "2020-01-28 06:49:12"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 06:49:41",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-01-28 06:49:38"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 06:50:42",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2020-01-28 06:50:33"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 06:52:00",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 44,
+                    "start_time": "2020-01-28 06:51:16"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 06:52:03",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-01-28 06:52:01"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 06:52:44",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 15,
+                    "start_time": "2020-01-28 06:52:29"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 06:53:12",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2020-01-28 06:53:04"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 06:53:35",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2020-01-28 06:53:31"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 06:53:56",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 20,
+                    "start_time": "2020-01-28 06:53:36"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 07:01:24",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2020-01-28 07:01:19"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 07:02:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 24,
+                    "start_time": "2020-01-28 07:01:47"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 07:02:30",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2020-01-28 07:02:26"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 07:02:50",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-01-28 07:02:48"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 07:02:56",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-01-28 07:02:55"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 07:03:15",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2020-01-28 07:03:07"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 07:04:52",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2020-01-28 07:04:42"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 07:04:57",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2020-01-28 07:04:53"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 06:52:29",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-01-28 06:52:28"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 06:53:36",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-01-28 06:53:35"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 06:54:52",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-01-28 06:54:51"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 07:03:16",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-01-28 07:03:15"
+                }
+            ]
+        },
+        {
+            "name": "gmail.com",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 06:54:53",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-01-28 06:54:52"
+                }
+            ]
+        },
+        {
+            "name": "mail.google.com",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 06:55:23",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 30,
+                    "start_time": "2020-01-28 06:54:53"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 07:01:16",
+                    "hours": 0,
+                    "minutes": 4,
+                    "seconds": 17,
+                    "start_time": "2020-01-28 06:56:59"
+                }
+            ]
+        },
+        {
+            "name": "61785ecevinoth@gmail.com014723.pdf",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 06:56:56",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 33,
+                    "start_time": "2020-01-28 06:55:23"
+                }
+            ]
+        },
+        {
+            "name": "Save password?",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 06:56:59",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-01-28 06:56:56"
+                }
+            ]
+        },
+        {
+            "name": "Task Switching",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 07:01:19",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-01-28 07:01:18"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 07:02:55",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-01-28 07:02:54"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 07:04:42",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-01-28 07:04:41"
+                }
+            ]
+        },
+        {
+            "name": "D:\\ProgramFiles\\GoogleDrive\\PythonCode",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 07:08:33",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2020-01-28 07:08:29"
+                }
+            ]
+        },
+        {
+            "name": "D:\\ProgramFiles\\GoogleDrive\\PythonCode\\Project",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 07:08:34",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-01-28 07:08:33"
+                }
+            ]
+        },
+        {
+            "name": "D:\\ProgramFiles\\GoogleDrive\\PythonCode\\Project\\automation",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 07:08:36",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-01-28 07:08:34"
+                }
+            ]
+        },
+        {
+            "name": "D:\\ProgramFiles\\GoogleDrive\\PythonCode\\Project\\automation\\AutoTimer",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 07:08:38",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-01-28 07:08:36"
+                }
+            ]
+        },
+        {
+            "name": "/usr/bin/bash --login -i",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-01-28 07:08:59",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-01-28 07:08:57"
+                }
+            ]
+        }
+    ]
+}
